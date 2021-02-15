@@ -189,7 +189,7 @@
             <artifactId>swagger-jaxrs2</artifactId>
             <version>${swagger-core-version}</version>
         </dependency>
-        <!-- inflector library dmo-->
+        <!-- inflector library dmo 2-->
         <dependency>
             <groupId>io.swagger</groupId>
             <artifactId>swagger-inflector</artifactId>
